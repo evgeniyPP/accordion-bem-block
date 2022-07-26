@@ -1,0 +1,10 @@
+.button {
+  box-sizing: border-box;
+  border: 0;
+  border-radius: 0;
+  overflow-anchor: none;
+  background: 0;
+  font-size: 1rem;
+  padding: 0;
+  cursor: pointer;
+}

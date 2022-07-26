@@ -1,0 +1,14 @@
+@import url("./blocks/button/button.css");
+
+@import url("./blocks/accordion/accordion.css");
+@import url("./blocks/accordion/__body/accordion__body.css");
+@import url("./blocks/accordion/__body/_opened/accordion__body_opened.css");
+@import url("./blocks/accordion/__button/accordion__button.css");
+@import url("./blocks/accordion/__button/_opened/accordion__button_opened.css");
+@import url("./blocks/accordion/__item/accordion__item.css");
+
+.page {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
